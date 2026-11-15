@@ -1,0 +1,5 @@
+MAE: 0.7051
+RMSE: 0.8869
+Movies: 30
+Users: 40
+Ratings: 857

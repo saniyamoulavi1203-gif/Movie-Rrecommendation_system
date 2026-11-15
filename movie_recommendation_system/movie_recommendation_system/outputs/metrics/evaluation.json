@@ -1,0 +1,8 @@
+{
+  "evaluation": "80/20 random holdout; movie mean-rating baseline",
+  "mae": 0.7051414316797028,
+  "rmse": 0.8869213235736493,
+  "movies": 30,
+  "users": 40,
+  "ratings": 857
+}
